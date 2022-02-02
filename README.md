@@ -1,4 +1,4 @@
-Olá, eu sou thales-garcia! 😀
+<h1>Olá, eu sou thales-garcia! 😀</h1>
 
   <div align="center">
     <a href="https://github.com/thales-garcia">
@@ -13,6 +13,8 @@ Olá, eu sou thales-garcia! 😀
     <img align="center" alt="thales-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="thales-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="thales-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+    <img align="center" alt="thales-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> 
+    <img align="center" alt="thales-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> 
   </div>
   
   ##
